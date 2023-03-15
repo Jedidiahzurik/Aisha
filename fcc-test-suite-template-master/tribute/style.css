@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+body {
+    background: rgb(220, 218, 218);;
+    text-align: center;
+    padding: 20px 10px;
+   
+}
+
+
+
+#image {
+    max-width: 100%;
+    display: block;
+
+}
+
+.alimg {
+    
+   
+
+}
+
+
+
+#img-div {
+    margin: 30px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: white;
+    flex-direction: column;
+}
+
+#img-caption {
+    margin: 5px auto 100px;
+}
+
+#main {
+    border-radius: 10px;
+}
+
